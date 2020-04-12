@@ -1,11 +1,1 @@
-<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Cura-Icon" fill="#000000">
-            <path d="M19,27 L12,27 L3,27 L3,3 L12,3 L12,11 L19,11 L19,19 L27,19 L27,27 L19,27 Z M4,4 L4,26 L11,26 L11,4 L4,4 Z" id="Combined-Shape"></path>
-            <polygon id="Path" points="10 17.1441441 9.18918919 17.954955 7.52252252 16.3333333 5.85585586 18 5.04504505 17.1891892 6.66666667 15.4774775 5 13.8558559 5.81081081 13.045045 7.52252252 14.6666667 9.18918919 13 10 13.8108108 8.33333333 15.4774775"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" version="1.1" viewBox="0 0 30 30"><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Cura-Icon" fill="#000"><path id="Combined-Shape" d="M19,27 L12,27 L3,27 L3,3 L12,3 L12,11 L19,11 L19,19 L27,19 L27,27 L19,27 Z M4,4 L4,26 L11,26 L11,4 L4,4 Z"/><polygon id="Path" points="10 17.144 9.189 17.955 7.523 16.333 5.856 18 5.045 17.189 6.667 15.477 5 13.856 5.811 13.045 7.523 14.667 9.189 13 10 13.811 8.333 15.477"/></g></g></svg>
